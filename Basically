@@ -1,0 +1,15 @@
+basically, Acer laptop and samsung galaxy note 10.1 2014. 
+
+I need documents and tutorials and examples on how to write dissasemblers and all this garbage because
+im trying to combine freedos, puredarwin, nasm, reactos, qube os, balabolka, jarvis.sh, alsa, raspbsd, haiku os, 
+and amiga to make an OS.
+
+my compiler designs so far (as if anyone will ever give me enough documentation to write one) involves for loops and psudo random interrupts to call functions in cache memory. it works because cache memory will pull predictable memory slots so i just have to store data there and use for loops. 
+
+I also need to get into my gopro in remote control mode
+
+and be able to use alterEgo x64 on puredarwin with wine installed on puredarwin, make wine jack audio compatible so i can play with that, and write a ton of flight simulators and shit like that. 
+
+oh my god its a joke. 
+
+
